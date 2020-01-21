@@ -8,11 +8,13 @@ Z oryginalnym hostem mogą być czasem problemy, GitHub natomiast jest prawie za
 Skorzystaj z pliku listing.txt, w którym są linki do wszystkich obrazków. Twoim zadaniem jest napisać kod, który będzie to wykorzystywał (np. za pomocą losowania). Jak nie zapomnę, to będzie też plik .js, w którym będzie Array linków.
 
 # Jak pomóc?
-Daj pull requesta z linkami, listingami w innych językach itd. Jednak jedynym aktualizowanym przeze mnie będzie .txt.
+Daj pull requesta z linkami, listingami w innych językach itd. Jednak jedynym aktualizowanym przeze mnie będzie .txt. Czasem .js (jak nie zapomnę).
 
 # Co z licencjonowaniem?
 Nie określono licencji na stronie NosaczAPI, lecz autorem jest arle nadja!#3425 (nick na Discordzie). Za repozytorium, jego aktualizacje i "ficzery" odpowiedzialny jest MrBoombastic. Możesz wspomnieć o autorach w swojej aplikacji, jeżeli wykorzystujesz to repo. Ustawiam jednak WTFPL jako licencję.
 
+# Historia wersji:
+1.0 - Obrazki z API by Arle pobrano 1 stycznia, Github by MrBoombastic 13 stycznia (2020)
 # Oryginalna strona poniżej
 
 <img src="http://szprinktrap.ddns.net/nosaczapi_logo.png">
