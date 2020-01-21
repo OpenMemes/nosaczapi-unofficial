@@ -12,7 +12,7 @@ Nie określono licencji na stronie NosaczAPI, lecz autorem jest arle nadja!#3425
 
 # Oryginalna strona poniżej
 
-<img src="nosaczapi_logo.png">
+<img src="http://szprinktrap.ddns.net/nosaczapi_logo.pngg">
 <h1>Witamy na super profesjonalnej stronie NosaczAPI!</h1>
 <h2>Wygląda jak gówno, ale powinna spełniać swoją funkcję.</h2>
 	
