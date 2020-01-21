@@ -11,11 +11,7 @@ Skorzystaj z pliku listing.txt, w którym są linki do wszystkich obrazków. Two
 Nie określono licencji na stronie NosaczAPI, lecz autorem jest arle nadja!#3425 (nick na Discordzie). Za repozytorium, jego aktualizacje i "ficzery" odpowiedzialny jest MrBoombastic. Możesz wspomnieć o autorach w swojej aplikacji, jeżeli wykorzystujesz to repo. Ustawiam jednak WTFPL jako licencję.
 
 # Oryginalna strona poniżej
-<!DOCTYPE html ><html>
-<head>
-  <title> NosaczAPI </title>
-</head>
-<body>
+
 	<img src="nosaczapi_logo.png">
 	<h1>Witamy na super profesjonalnej stronie NosaczAPI!</h1>
 	<h2>Wygląda jak gówno, ale powinna spełniać swoją funkcję.</h2>
@@ -37,5 +33,3 @@ Nie określono licencji na stronie NosaczAPI, lecz autorem jest arle nadja!#3425
 	
 	<p>Za to dziadostwo odpowiedzialny jest arle nadja!#3425 (discord) <br />
 	Możesz mi wysłać hejta, albo nowe memy do API.</p>
-	</body>
-</html>
