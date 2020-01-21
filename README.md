@@ -7,6 +7,9 @@ Z oryginalnym hostem mogą być czasem problemy, GitHub natomiast jest prawie za
 # Jak używać?
 Skorzystaj z pliku listing.txt, w którym są linki do wszystkich obrazków. Twoim zadaniem jest napisać kod, który będzie to wykorzystywał (np. za pomocą losowania). Jak nie zapomnę, to będzie też plik .js, w którym będzie Array linków.
 
+# Jak pomóc?
+Daj pull requesta z linkami, listingami w innych językach itd. Jednak jedynym aktualizowanym przeze mnie będzie .txt.
+
 # Co z licencjonowaniem?
 Nie określono licencji na stronie NosaczAPI, lecz autorem jest arle nadja!#3425 (nick na Discordzie). Za repozytorium, jego aktualizacje i "ficzery" odpowiedzialny jest MrBoombastic. Możesz wspomnieć o autorach w swojej aplikacji, jeżeli wykorzystujesz to repo. Ustawiam jednak WTFPL jako licencję.
 
