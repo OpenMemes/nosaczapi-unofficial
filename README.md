@@ -14,7 +14,7 @@ Daj pull requesta z linkami, listingami w innych językach itd. Jednak jedynym a
 Nie określono licencji na stronie NosaczAPI, lecz autorem jest arle nadja!#3425 (nick na Discordzie). Za repozytorium, jego aktualizacje i "ficzery" odpowiedzialny jest MrBoombastic. Możesz wspomnieć o autorach w swojej aplikacji, jeżeli wykorzystujesz to repo. Ustawiam jednak WTFPL jako licencję.
 
 # Historia wersji:
-1.0 - Obrazki z API by Arle pobrano 1 stycznia, GitHub by MrBoombastic 13 stycznia 2020
+1.0 - Obrazki z API by Arle pobrano 1 stycznia, GitHub by MrBoombastic 13 stycznia 2020 (ostatnie sprawdzenie: 13 kwietnia)
 # Oryginalna strona poniżej
 
 <img src="http://szprinktrap.ddns.net/nosaczapi_logo.png">
