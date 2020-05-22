@@ -1,20 +1,30 @@
-# nosaczapi-unofficial
+# Unofficial NosaczAPI
 Nieoficjalny backup strony http://szprinktrap.ddns.net/nosaczapi.html
 
 # Po co to komu?
 Z oryginalnym hostem mogą być czasem problemy, GitHub natomiast jest prawie zawsze dostępny! Przy okazji można pozwiedzać memy. :D
 
 # Jak używać?
-Skorzystaj z pliku listing.txt, w którym są linki do wszystkich obrazków. Twoim zadaniem jest napisać kod, który będzie to wykorzystywał (np. za pomocą losowania). Jak nie zapomnę, to będzie też plik .json, w którym będzie Array linków.
+W głównym folderze repozytorium znajduje się plik data.json. Na jego podstawie możesz napisać skrypt losujący obrazki. Podano najmniejszy numer obrazka, największy, adres URL oraz rozszerzenie pliku.
 
 # Jak pomóc?
-Daj pull requesta z linkami, listingami w innych językach itd. Jednak jedynym aktualizowanym przeze mnie będzie .txt. Czasem .json (jak nie zapomnę).
+Nijak. To tylko backup.
 
 # Co z licencjonowaniem?
 Nie określono licencji na stronie NosaczAPI, lecz autorem jest arle nadja!#3425 (nick na Discordzie). Za repozytorium, jego aktualizacje i "ficzery" odpowiedzialny jest MrBoombastic. Możesz wspomnieć o autorach w swojej aplikacji, jeżeli wykorzystujesz to repo. Ustawiam jednak WTFPL jako licencję.
 
 # Historia wersji:
-1.0 - Obrazki z API by Arle pobrano 1 stycznia, Github by MrBoombastic 13 stycznia (2020)
+- 2.0 - Obrazki nadal z 1 stycznia. Jest ich 1587. W API Arle był 1 więcej, ale uszkodził się podczas pobierania.
+- 1.0 - Obrazki z API by Arle pobrano 1 stycznia, Github by MrBoombastic 13 stycznia (2020).
+
+# Korzystasz z tego API?
+Utwórz nowy issue na GitHubie z nazwą bota/projektu i linkiem do niego. Zostanie umieszczony w Hali Sław.
+
+# Hala Sław
+
+| BOOMbo BOT  |
+| ------------- |
+| ![](https://cdn.discordapp.com/avatars/450017151323996173/eedbdbc5006c9a7e2911aef096627e12.jpg?size=128)  | Content Cell  |
 # Oryginalna strona poniżej
 
 <img src="http://szprinktrap.ddns.net/nosaczapi_logo.png">
@@ -28,7 +38,7 @@ URL: <a href="http://szprinktrap.ddns.net:1410">http://szprinktrap.ddns.net:1410
 Wysyła plik .json z linkiem do losowego obrazka.</p>
 
 <p><a href ="http://szprinktrap.ddns.net:1410/kurla.txt">/kurla.txt</a><br />
-To samo co wyżej, ale sam tekst, nie json.</b>
+To samo co wyżej, ale sam tekst, nie json.</p>
 	
 <p><a href ="http://szprinktrap.ddns.net:1410/kurla.png">/kurla.png</a><br />
 Losowy obrazek jako plik - do wstawienia na stronę.<br />
