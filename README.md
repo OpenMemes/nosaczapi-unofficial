@@ -22,9 +22,9 @@ Utwórz nowy issue na GitHubie z nazwą bota/projektu i linkiem do niego. Zostan
 
 # Hala Sław
 
-| [BOOMbo BOT](https://boombo.tk) | [FiveBit](https://www.fivebit.tk/) |
-| ------------- | ------------- |
-| ![](https://cdn.discordapp.com/avatars/450017151323996173/eedbdbc5006c9a7e2911aef096627e12.jpg?size=128)  | ![](https://cdn.discordapp.com/avatars/606751745829240833/40c9390bc1d3d9627f96d50a4309b7ce.png?size=128) |
+| [BOOMbo BOT](https://boombo.tk) | [FiveBit](https://www.fivebit.tk/) |  [Skyndalex](https://skyndalex.ct8.pl)  |
+| ------------- | ------------- | ------------- |
+| ![](https://cdn.discordapp.com/avatars/450017151323996173/eedbdbc5006c9a7e2911aef096627e12.jpg?size=128)  | ![](https://cdn.discordapp.com/avatars/606751745829240833/40c9390bc1d3d9627f96d50a4309b7ce.png?size=128) |   ![](https://cdn.discordapp.com/avatars/707650198305767434/ca059db7da0b8271988d3cc29cf18989.png?size=128) |
 # Oryginalna strona poniżej
 
 <img src="http://szprinktrap.ddns.net/nosaczapi_logo.png">
