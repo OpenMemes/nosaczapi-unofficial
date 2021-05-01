@@ -14,7 +14,7 @@ Nijak. To tylko backup.
 Nie określono licencji na stronie NosaczAPI, lecz autorem jest Szprink#3425 (nick na Discordzie). Za repozytorium, jego aktualizacje i "ficzery" odpowiedzialny jest MrBoombastic. Możesz wspomnieć o autorach w swojej aplikacji, jeżeli wykorzystujesz to repo. Ustawiam jednak WTFPL jako licencję.
 
 # Historia wersji:
-- 3.0 - Dodano nowe obrazki od Michal9788 na Wykop.pl. Starałem się odfiltrować powtórzone memy. Obrazków jest już 2511.
+- 3.0.1 - Dodano nowe obrazki od Michal9788 na Wykop.pl. Starałem się odfiltrować powtórzone memy. Obrazków jest już 2511.
 - 2.2 - Wydaje się, że nadal nie dodano nowych obrazków, ale stare API wstało, więc udało mi się odzyskać 1 zagubiony obrazek.
 - 2.0 - Obrazki nadal z 1 stycznia. Jest ich 1587. W API Arle był 1 więcej, ale uszkodził się podczas pobierania.
 - 1.0 - Obrazki z API by Arle pobrano 1 stycznia, Github by MrBoombastic 13 stycznia (2020).
