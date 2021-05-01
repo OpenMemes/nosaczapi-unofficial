@@ -14,6 +14,7 @@ Nijak. To tylko backup.
 Nie określono licencji na stronie NosaczAPI, lecz autorem jest Szprink#3425 (nick na Discordzie). Za repozytorium, jego aktualizacje i "ficzery" odpowiedzialny jest MrBoombastic. Możesz wspomnieć o autorach w swojej aplikacji, jeżeli wykorzystujesz to repo. Ustawiam jednak WTFPL jako licencję.
 
 # Historia wersji:
+- 3.0 - Dodano nowe obrazki od Michal9788 na Wykop.pl. Starałem się odfiltrować powtórzone memy. Obrazków jest już 2511.
 - 2.2 - Wydaje się, że nadal nie dodano nowych obrazków, ale stare API wstało, więc udało mi się odzyskać 1 zagubiony obrazek.
 - 2.0 - Obrazki nadal z 1 stycznia. Jest ich 1587. W API Arle był 1 więcej, ale uszkodził się podczas pobierania.
 - 1.0 - Obrazki z API by Arle pobrano 1 stycznia, Github by MrBoombastic 13 stycznia (2020).
@@ -23,9 +24,9 @@ Utwórz nowy issue na GitHubie z nazwą bota/projektu i linkiem do niego. Zostan
 
 # Hala Sław
 
-| [BOOMbo BOT](https://boombo.tk) | [FiveBit](https://www.fivebit.tk/) |  [Skyndalex](https://skyndalex.tk)  |   [Lambda](http://aleksio.cf/lambda/)   |
-| ------------- | ------------- | ------------- | ------------ |
-| ![](https://cdn.discordapp.com/avatars/450017151323996173/eedbdbc5006c9a7e2911aef096627e12.jpg?size=128)  | ![](https://cdn.discordapp.com/avatars/606751745829240833/40c9390bc1d3d9627f96d50a4309b7ce.png?size=128) |   ![](https://cdn.discordapp.com/avatars/707650198305767434/5f0954a1cd149b17b074fc01cc739c66.webp?size=128) |   ![](https://cdn.discordapp.com/avatars/677517864680292376/635ce1923b62ab5dd3e5c73929105e41.png?size=128)
+| [BOOMfinity](https://boomfinity.xyz)  |
+| ------------- |
+| ![](https://cdn.discordapp.com/avatars/450017151323996173/f2d4d1a2dd59a09f4b36ed9a8d9b4cbf.png?size=256)  |
 # Oryginalna strona poniżej
 
 <img src="http://szprinktrap.ddns.net/nosaczapi_logo.png">
