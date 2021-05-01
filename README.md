@@ -24,9 +24,9 @@ Utwórz nowy issue na GitHubie z nazwą bota/projektu i linkiem do niego. Zostan
 
 # Hala Sław
 
-| [BOOMfinity](https://boomfinity.xyz)  |
-| ------------- |
-| ![](https://cdn.discordapp.com/avatars/450017151323996173/f2d4d1a2dd59a09f4b36ed9a8d9b4cbf.png?size=256)  |
+| [BOOMfinity](https://boomfinity.xyz)  | [FiveBit](https://fivebit.tk/)  |
+| ------------- | ------------- |
+| ![](https://cdn.discordapp.com/avatars/450017151323996173/f2d4d1a2dd59a09f4b36ed9a8d9b4cbf.png?size=256)  |  ![](https://cdn.discordapp.com/avatars/756826668366037072/45814172830b84edbcdcd200bbff31a0.png?size=256)  |
 # Oryginalna strona poniżej
 
 <img src="http://szprinktrap.ddns.net/nosaczapi_logo.png">
